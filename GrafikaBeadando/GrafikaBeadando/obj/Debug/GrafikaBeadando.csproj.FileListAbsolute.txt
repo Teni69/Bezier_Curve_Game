@@ -1,0 +1,14 @@
+C:\Users\d3zso\source\repos\GrafikaBeadando\GrafikaBeadando\bin\Debug\GrafikaBeadando.exe.config
+C:\Users\d3zso\source\repos\GrafikaBeadando\GrafikaBeadando\bin\Debug\GrafikaBeadando.exe
+C:\Users\d3zso\source\repos\GrafikaBeadando\GrafikaBeadando\bin\Debug\GrafikaBeadando.pdb
+C:\Users\d3zso\source\repos\GrafikaBeadando\GrafikaBeadando\bin\Debug\BeadandoDLL.dll
+C:\Users\d3zso\source\repos\GrafikaBeadando\GrafikaBeadando\bin\Debug\BeadandoDLL.pdb
+C:\Users\d3zso\source\repos\GrafikaBeadando\GrafikaBeadando\obj\Debug\GrafikaBeadando.csproj.AssemblyReference.cache
+C:\Users\d3zso\source\repos\GrafikaBeadando\GrafikaBeadando\obj\Debug\GrafikaBeadando.csproj.SuggestedBindingRedirects.cache
+C:\Users\d3zso\source\repos\GrafikaBeadando\GrafikaBeadando\obj\Debug\GrafikaBeadando.Form1.resources
+C:\Users\d3zso\source\repos\GrafikaBeadando\GrafikaBeadando\obj\Debug\GrafikaBeadando.Properties.Resources.resources
+C:\Users\d3zso\source\repos\GrafikaBeadando\GrafikaBeadando\obj\Debug\GrafikaBeadando.csproj.GenerateResource.cache
+C:\Users\d3zso\source\repos\GrafikaBeadando\GrafikaBeadando\obj\Debug\GrafikaBeadando.csproj.CoreCompileInputs.cache
+C:\Users\d3zso\source\repos\GrafikaBeadando\GrafikaBeadando\obj\Debug\GrafikaBeadando.csproj.CopyComplete
+C:\Users\d3zso\source\repos\GrafikaBeadando\GrafikaBeadando\obj\Debug\GrafikaBeadando.exe
+C:\Users\d3zso\source\repos\GrafikaBeadando\GrafikaBeadando\obj\Debug\GrafikaBeadando.pdb
